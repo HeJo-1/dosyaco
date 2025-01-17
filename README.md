@@ -48,6 +48,11 @@ Dosya.co linkini giriniz: https://dosya.co/example
 Wordlist dosyasını giriniz (.txt): passwords.txt
 ```
 
+
+https://github.com/user-attachments/assets/dad273b4-d8fb-4f4f-a93e-535a87b20db9
+
+
+
 ### 3. Adım: Şifre Denemeleri
 Tool, wordlist dosyasındaki her şifreyi sırayla dener. Doğru şifre bulunduğunda denemeyi durdurur ve sonucu gösterir.
 
